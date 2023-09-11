@@ -1,0 +1,140 @@
+#a{
+	height:500px;
+	width:100%;
+}
+#a1{
+	height:60px;
+	width:60px;
+	border-radius: 250px;
+}
+#a2{
+	color: white;
+	font-size: 25px;
+}
+#a3{
+	height: 500px;
+	width: 90%;
+}
+#a4{
+	height: 600px;
+	width: 90%;
+}
+#a5{
+	color: blue;
+}
+#b{
+	color:gray;
+}
+#a6{
+	background-image:url('images/img11.jpg');
+	width: 100%;
+	background-size: cover;
+	height: 400px;
+}
+#a7{
+	color:white;
+}
+#aa{
+	padding-top: 25px;
+	text-align: center;
+}
+#y{
+	height: 250px;
+	width: 100%;
+}
+#email{
+	height: 20%;
+	width:30%;
+}
+#usr{
+	height: 20%;
+	width: 70%;
+	text-align: center;
+	color: white;
+	background-color: #0000FF;
+}
+#g2{
+	color: white;
+	background-color: #0000FF;
+}
+#co{
+	background-color: #0000FF;
+}
+#bgi{
+	background-image:url('images/img12.jpg');
+	width: 100%;
+	background-size: cover;
+	height: 500px;
+}
+#bg1{
+	padding: 5px;
+	margin-top: 60px;
+	text-align: center;
+	color: white;
+}
+#vo{
+	color: white;
+	background-color:#E238EC;
+	border: #E238EC;
+}
+#l1{
+	margin-right:170px;
+}
+#a12{
+	padding-top: 30px;
+}
+#zz{
+	padding-top: 30px;
+	height:500px;
+	width:100%;
+
+}
+#na{
+	height:400px;
+	width:100%;
+	background-color: pink;
+
+}
+#sr{
+	height: 300px;
+	width: 100%;
+	background-color: pink;
+}
+#ee{
+	height: 100px;
+	width: 100%;
+	background-color: pink;
+
+}
+#nn{
+	height: 300px;
+	width: 25%;
+	background-color:pink;
+	float: right;
+}
+#ll{
+    height: 300px;
+	width: 25%;
+	background-color: pink;
+	float: right;
+}
+#kk{
+    height: 300px;
+	width: 25%;
+	background-color: pink;
+	float: right;
+}
+#ff{
+	height: 300px;
+	width: 25%;
+	background-color:pink;
+	float: right;
+}
+#vv{
+	height: 300px;
+	width: 50px;
+	color: purple;
+}
+#pp{
+	padding-top: 50px;
+}
